@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "g:template": "deno run --allow-read=. --allow-write=. g_template.ts",
+    "render": "deno run --allow-read=. --allow-write=. render.ts",
+    "g:code": "deno task g:template && deno task render"
+  }
+}

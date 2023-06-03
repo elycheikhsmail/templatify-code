@@ -1,0 +1,19 @@
+[
+  {
+    "word": "Todo",
+    "model": "modelName"
+  },
+  {
+    "word": "todoId",
+    "model": "modelId"
+  },
+
+  {
+    "word": "todo",
+    "model": "modelNameLowerCase"
+  },
+  {
+    "word": "TODO",
+    "model": "tableName"
+  }
+]
